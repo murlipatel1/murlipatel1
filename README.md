@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+
 <!--
 **murlipatel1/murlipatel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
