@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebDev MERN projects and Devops tools.<br>👯 I’m looking to collaborate on Open source project.<br>🤝 I’m looking for help in AWS and other handful open source projects.<br>🌱 I’m currently learning DevOps and AWS tools. <br>💬 Ask me about anything , always ready to brainstorm on new domains. 
+🔭 I’m currently working on WebDev MERN projects and Devops tools.<br>👯 I’m looking to collaborate on Open source project.<br>🤝 I’m looking for collab and learn in AWS and other handful open source projects.<br>🌱 I’m currently learning DevOps and AWS tools. <br>💬 Ask me about anything , always ready to brainstorm on new domains. 
 
 
 ## 🌐 Socials:
